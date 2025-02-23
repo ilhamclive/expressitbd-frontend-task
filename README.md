@@ -159,18 +159,18 @@ yarn preview
 
 ## 🖼️ Screenshots
 
-### Task 1 (a) - Home Page
-The following screenshot shows the Home page layout for Task 1 (a):
+### Home Page
+The following screenshot shows the Home page layout:
 
 ![Task 1 (a) Home Page Screenshot](./assets/home.png)
 
-### Task 1 (b) - Product Details
-The following screenshot shows the Product Details page for Task 1 (b):
+### Product Details
+The following screenshot shows the Product Details page:
 
 ![Task 1 (b) Product Details Screenshot](./assets/details.png)
 
-### Task 1 (c) - Create Product
-The following screenshot shows the Create Product page for Task 1 (c):
+### Create Store
+The following screenshot shows the Create Store:
 
 ![Task 1 (c) Create Product Screenshot](./assets/create.png)
 
