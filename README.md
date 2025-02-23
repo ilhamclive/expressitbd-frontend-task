@@ -7,14 +7,14 @@ This project is a submission for the **Frontend Developer** position at **Expres
 ## 📋 Table of Contents
 
 1. [💡 Project Overview](#-project-overview)
-2. [🚀 Features](#features)
-3. [🛠️ Tech Stack](#tech-stack)
-4. [📂 Folder Structure](#folder-structure)
-5. [⚙️ Getting Started](#getting-started)
-6. [🖼️ Screenshots](#screenshots)
-7. [📈 Performance Optimizations](#performance-optimizations)
-8. [📑 License](#license)
-9. [✉️ Contact](#contact)
+2. [🚀 Features](#-features)
+3. [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
+4. [📂 Folder Structure](#-folder-structure)
+5. [⚙️ Getting Started](#%EF%B8%8F-getting-started)
+6. [🖼️ Screenshots](#%EF%B8%8F-screenshots)
+7. [📈 Performance Optimizations](#%EF%B8%8F-performance-optimizations)
+8. [📑 License](#-license)
+9. [✉️ Contact](#-contact)
 
 ---
 
